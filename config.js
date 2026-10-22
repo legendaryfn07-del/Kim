@@ -4,11 +4,11 @@
 
 const SITE = {
   // Your names
-  name1: "You",
-  name2: "Her",
+  name1: "Edisson",
+  name2: "Kim",
 
   // The day you got together (YYYY-MM-DD) — powers the "days together" counter
-  startDate: "2024-02-14",
+  startDate: "01/17/2026",
 
   // A little line under the title
   tagline: "a collection of our favorite moments",
