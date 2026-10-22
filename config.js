@@ -29,7 +29,7 @@ const PHOTOS = [
   { file: "example-1.svg", caption: "our first date ☕",      date: "Feb 2024" },
   { file: "example-2.svg", caption: "that beach day 🌊",       date: "Jul 2024" },
   { file: "example-3.svg", caption: "cozy nights in 🍿",       date: "Dec 2024" },
-  { file: "example-4.svg", caption: "adventures together 🗺️", date: "Mar 2025" },
+  { file: "IMG_3695.PNG", caption: "adventures together 🗺️", date: "Mar 2025" },
   { file: "example-5.svg", caption: "you, always 💕",          date: "" },
   { file: "example-6.svg", caption: "one year of us 🎂",       date: "Feb 2025" },
 ];
