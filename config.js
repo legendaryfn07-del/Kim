@@ -8,7 +8,7 @@ const SITE = {
   name2: "Kim",
 
   // The day you got together (YYYY-MM-DD) — powers the "days together" counter
-  startDate: "01-17-2026",
+  startDate: "2026-01-17",
 
   // A little line under the title
   tagline: "a collection of our favorite moments",
