@@ -27,7 +27,7 @@ const SITE = {
 // --------------------------------------------
 const PHOTOS = [
   { file: "example-1.svg", caption: "our first date ☕",      date: "Feb 2024" },
-  { file: "example-2.svg", caption: "that beach day 🌊",       date: "Jul 2024" },
+  { file: "sunset.png", caption: "that beach day 🌊",       date: "Oct 2026" },
   { file: "example-3.svg", caption: "cozy nights in 🍿",       date: "Dec 2024" },
   { file: "IMG_3695.PNG", caption: "adventures together 🗺️", date: "Sep 2026" },
   { file: "example-5.svg", caption: "you, always 💕",          date: "" },
